@@ -1,11 +1,11 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("images/chris_profile.jpg");
       background-size: cover;
-      color: white;
+      color: red;
     }
     .nav {
-      color: white;
+      color: blue;
     }
     h1 {
       font-size: 70px;

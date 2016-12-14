@@ -1,0 +1,12 @@
+header {
+      text-align: center;
+      background: url("");
+      background-size: cover;
+      color: red;
+    }
+    .nav {
+      color: blue;
+    }
+    h1 {
+      font-size: 70px;
+    }
